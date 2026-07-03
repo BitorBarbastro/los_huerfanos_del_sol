@@ -8,7 +8,7 @@ Categoría: Glosario de Referencia
 
 #  Glosario del Yermo
 
-Diccionario de términos narrativos y ambientales para la campaña. Las reglas y valores matemáticos asociados se encuentran en la nota de [[Los Huérfanos del Sol/Sistema y Reglas de la Casa/El Viaje - Posturas y Tramos\|El Viaje - Posturas y Tramos]].
+Diccionario de términos narrativos y ambientales para la campaña. Las reglas y valores matemáticos asociados se encuentran en la nota de [[Los Huérfanos del Sol/01_Sistema y Reglas de la Casa/El Viaje - Posturas y Tramos\|El Viaje - Posturas y Tramos]].
 
 ---
 
@@ -46,7 +46,7 @@ La unidad de medida utilizada por los exploradores para calcular la longitud de 
 La reserva de resistencia física y mental que mide la capacidad de un personaje para soportar la hipotermia, el aire seco del yermo y la psicosis provocada por la oscuridad perpetua.
 
 ### Ferales
-Criaturas y fauna del Viejo Mundo mutadas por el cataclismo. Carecen de ojos y su piel está cubierta por costras de hielo. Cazan guiándose exclusivamente por las vibraciones del suelo y el sonido. *(Etiqueta de sistema: #ciego)*
+Criaturas y fauna del Viejo Mundo mutadas por el cataclismo. Carecen de ojos y su piel está cubierta por costras de hielo. Cazan guiándose exclusivamente por las vibraciones del suelo y el sonido. *( #ciego)*
 
 ### Gritadores
 Alfas o monstruosidades de gran tamaño que actúan como núcleos ecológicos en la superficie, coordinando e incitando a las jaurías de ferales mediante pulsos ultrasónicos.

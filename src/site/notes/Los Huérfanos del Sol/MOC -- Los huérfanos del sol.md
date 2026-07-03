@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/los-huerfanos-del-sol/moc-los-huerfanos-del-sol/","tags":["gardenEntry"],"dg-note-properties":{}}
 ---
 
-## 🛠️ 1. Mecánicas de la Campaña
+## 1. Mecánicas de la Campaña
 
 - [[Los Huérfanos del Sol/Sistema y Reglas de la Casa/El Sistema de Entereza\|El Sistema de Entereza]]
 - [[Los Huérfanos del Sol/Sistema y Reglas de la Casa/El Viaje - Posturas y Tramos\|El Viaje - Posturas y Tramos]]]

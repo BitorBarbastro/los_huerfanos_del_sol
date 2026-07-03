@@ -8,7 +8,7 @@ Durante la creación de personaje la Entereza se establece como un atributo con 
 
 - **Puntos Máximos de Entereza:** Se calculan sumando una base fija, tus dos estadísticas de resistencia y tu entrenamiento básico.
 
-$Puntos de entereza = 10 + Modificador de constitución + Modificador de Sabiduria + Bonus de competencia$
+Puntos de entereza = 10 + Modificador de constitución + Modificador de Sabiduria + Bonus de competencia
 
 - **Bonus de Entereza (Para Tiradas):** Cuando el DM solicite una tirada de salvación de Entereza o una prueba de sus habilidades asociadas, el modificador a aplicar será: 
 	

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/los-huerfanos-del-sol/anexo-glosario-del-yermo/","dg-note-properties":{"Tipo":"Anexo / Lore","Categoría":"Glosario de Referencia"}}
+{"dg-publish":true,"permalink":"/los-huerfanos-del-sol/anexo-glosario-del-yermo/","dg-note-properties":{}}
 ---
 
 Tipo: Anexo / Lore
@@ -8,7 +8,7 @@ Categoría: Glosario de Referencia
 
 #  Glosario del Yermo
 
-Diccionario de términos narrativos y ambientales para la campaña. Las reglas y valores matemáticos asociados se encuentran en la nota de [[Los Huérfanos del Sol/01_Sistema y Reglas de la Casa/El Viaje - Posturas y Tramos\|El Viaje - Posturas y Tramos]].
+Diccionario de términos narrativos y ambientales para la campaña. Las reglas y valores matemáticos asociados se encuentran en la nota de [[Los Huérfanos del Sol/01 Mecánicas de la campaña/El Viaje - Posturas y Tramos\|El Viaje - Posturas y Tramos]].
 
 ---
 

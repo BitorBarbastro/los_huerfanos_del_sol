@@ -27,6 +27,6 @@
 
 ### La Superficie (El Yermo Ciego y Caminos de Sal)
 
-## 📖 6. Diario de Campaña y Bitácora
+## 6. Diario de Campaña y Bitácora
 
 - [[Bitácora - Diario de Sesiones\|Bitácora - Diario de Sesiones]]

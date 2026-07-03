@@ -4,9 +4,9 @@
 
 ## 1. Mecánicas de la Campaña
 
-- [[Los Huérfanos del Sol/Sistema y Reglas de la Casa/El Sistema de Entereza\|El Sistema de Entereza]]
-- [[Los Huérfanos del Sol/Sistema y Reglas de la Casa/El Viaje - Posturas y Tramos\|El Viaje - Posturas y Tramos]]]
-- [[Los Huérfanos del Sol/Sistema y Reglas de la Casa/Gestión de la Luz y Descansos\|Gestión de la Luz y Descansos]]
+- [[Los Huérfanos del Sol/01_Sistema y Reglas de la Casa/El Sistema de Entereza\|El Sistema de Entereza]]
+- [[Los Huérfanos del Sol/01_Sistema y Reglas de la Casa/El Viaje - Posturas y Tramos\|El Viaje - Posturas y Tramos]]]
+- [[Los Huérfanos del Sol/01_Sistema y Reglas de la Casa/Gestión de la Luz y Descansos\|Gestión de la Luz y Descansos]]
 ##  2. Lore de la Ambientación
 
 - [[Lore - El Proyecto Arca\|Lore - El Proyecto Arca]]    

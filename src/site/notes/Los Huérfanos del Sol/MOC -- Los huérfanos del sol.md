@@ -4,25 +4,21 @@
 
 ## 🛠️ 1. Mecánicas de la Campaña
 
-- [[Los Huérfanos del Sol/🛠️ Sistema y Reglas de la Casa/El Sistema de Entereza\|El Sistema de Entereza]]
-- [[Los Huérfanos del Sol/🛠️ Sistema y Reglas de la Casa/El Viaje - Posturas y Tramos\|El Viaje - Posturas y Tramos]]]
-- [[Los Huérfanos del Sol/🛠️ Sistema y Reglas de la Casa/Gestión de la Luz y Descansos\|Gestión de la Luz y Descansos]]
-## 📜 2. Lore de la Ambientación
+- [[Los Huérfanos del Sol/Sistema y Reglas de la Casa/El Sistema de Entereza\|El Sistema de Entereza]]
+- [[Los Huérfanos del Sol/Sistema y Reglas de la Casa/El Viaje - Posturas y Tramos\|El Viaje - Posturas y Tramos]]]
+- [[Los Huérfanos del Sol/Sistema y Reglas de la Casa/Gestión de la Luz y Descansos\|Gestión de la Luz y Descansos]]
+##  2. Lore de la Ambientación
 
 - [[Lore - El Proyecto Arca\|Lore - El Proyecto Arca]]    
 - [[Lore - La Guerra por el Subsuelo\|Lore - La Guerra por el Subsuelo]]
-## 🏢 3. Ubicaciones y Entorno
+##  3. Ubicaciones y Entorno
 
 - [[Ubicaciones - Enclaves y Búnkeres\|Ubicaciones - Enclaves y Búnkeres]]
 - [[Ubicaciones - Exclusas y Puntos de Tránsito\|Ubicaciones - Exclusas y Puntos de Tránsito]]
 - [[Ubicaciones - Caminos y Rutas del Yermo\|Ubicaciones - Caminos y Rutas del Yermo]]
-## 🪓 4. Facciones del Mundo
+##  4. Facciones del Mundo
 
-- [[Facción - Los Clanes Orcos de los Túneles\|Facción - Los Clanes Orcos de los Túneles]]
-- [[Facción - Los Supervivientes del Arca\|Facción - Los Supervivientes del Arca]]
-- [[Facción - Las Tribus de la Escarcha\|Facción - Las Tribus de la Escarcha]]
-
-## 👥 5. Registro de PNJs (Clasificados por Zona)
+##  5. Registro de NPCs 
 
 #### Plantilla para crear todos los NPCs  [[Los Huérfanos del Sol/PlantillaNPC\|PlantillaNPC]] 
 ### Subterráneo (Enclaves y Búnkeres)
@@ -30,8 +26,6 @@
 ### Zonas de Frontera (Exclusas y Estaciones de Tránsito)
 
 ### La Superficie (El Yermo Ciego y Caminos de Sal)
-  
-- [[Amenaza - El Hermano de la Ceniza\|Amenaza - El Hermano de la Ceniza]] (Némesis ambulante).    
 
 ## 📖 6. Diario de Campaña y Bitácora
 

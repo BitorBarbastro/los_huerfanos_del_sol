@@ -17,7 +17,7 @@ $$\text{Puntos Máximos} = 10 + \text{Modificador de Constitución} + \text{Modi
     12 -> +1
     15 -> +2
     16 -> +3
-## 🎯 2. Dificultades (CD) de las Tiradas en el Mundo
+## 2. Dificultades (CD) de las Tiradas en el Mundo
 
 La tirada de Entereza se realiza de forma obligatoria por cada hora real que el grupo pase expuesto en el exterior o explorando entornos hostiles. La Clase de Dificultad (CD) varía según la protección del entorno:
 
@@ -32,7 +32,7 @@ La tirada de Entereza se realiza de forma obligatoria por cada hora real que el 
 - **CD 17 – La Ventisca Negra:** Viajar en Marcha Ciega bajo los efectos plenos de El Rugido sin protección alguna.
     
 
-## 📉 3. Umbrales de Desgaste (Valores Absolutos)
+## 3. Umbrales de Desgaste (Valores Absolutos)
 
 Los penalizadores físicos y mentales se activan según los **puntos restantes exactos** del personaje. De esta forma, un personaje con una puntuación máxima alta (ej. 17 puntos) mantendrá su estado óptimo durante mucho más tiempo que uno con una puntuación baja (ej. 11 puntos), quien entrará en crisis casi de inmediato.
 
@@ -47,7 +47,7 @@ Los penalizadores físicos y mentales se activan según los **puntos restantes e
 - **0 Puntos – Colapso:** El personaje cae inconsciente de inmediato debido a la congelación o el shock mental. Cada hora que pase a 0 puntos de Entereza en un entorno hostil le causará la pérdida automática de una dote de muerte o un nivel de Agotamiento irreversible.
     
 
-## 🧠 4. Habilidades Vinculadas a la Entereza
+## 4. Habilidades Vinculadas a la Entereza
 
 La Entereza cuenta con tres habilidades específicas en las que los personajes pueden especializarse (añadiendo su Bonus de Competencia si disponen de ella):
 
@@ -61,7 +61,7 @@ La Entereza cuenta con tres habilidades específicas en las que los personajes p
 Permite filtrar los siseos estáticos y ruidos blancos que emiten los Ferales y los Gritadores, evitando que el personaje sea rastreado a través de su propia actividad cerebral.
     
 
-## 🎖️ 5. Dotes Especiales de Entereza 
+## 5. Dotes Especiales de Entereza 
 
 Dotes disponibles durante la creación o avance de personajes para especializarse en la supervivencia del Yermo Ciego:
 
@@ -78,7 +78,7 @@ Tu cuerpo ha aprendido a economizar energía de forma extrema bajo temperaturas 
 ### Paso Firme: 
 Tus ojos saben detectar los sutiles cambios en el hielo y la densidad de la nieve negra. Eres completamente inmune a los penalizadores del estado **Entumecido** (no sufres desventaja en iniciativa ni en tiradas de Destreza al bajar de 11 puntos). Además, tienes Ventaja en las tiradas de Atletismo o Acrobacias para evitar la _Precariedad_ durante una Marcha Ciega o al explorar Túneles Subterráneos.
 
-## 💤 6. Regla de Recuperación Restringida
+## 6. Regla de Recuperación Restringida
 
 El descanso en este entorno no es una cura milagrosa; requiere infraestructuras seguras y recursos:
 

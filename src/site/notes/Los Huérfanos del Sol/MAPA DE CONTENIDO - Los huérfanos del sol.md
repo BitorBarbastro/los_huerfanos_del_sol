@@ -20,7 +20,7 @@
 
 ##  5. Registro de NPCs 
 
-#### Plantilla para crear todos los NPCs  [[Los Huérfanos del Sol/PlantillaNPC\|PlantillaNPC]] 
+#### Plantilla para crear los NPCs  [[Los Huérfanos del Sol/PlantillaNPC\|PlantillaNPC]] 
 ### Subterráneo (Enclaves y Búnkeres)
 
 ### Zonas de Frontera (Exclusas y Estaciones de Tránsito)

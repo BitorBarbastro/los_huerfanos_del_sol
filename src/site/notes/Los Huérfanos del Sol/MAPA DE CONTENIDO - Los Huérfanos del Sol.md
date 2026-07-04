@@ -6,7 +6,7 @@
 
 - [[Los Huérfanos del Sol/01 Mecánicas de la campaña/El Sistema de Entereza\|El Sistema de Entereza]]
 - [[Los Huérfanos del Sol/01 Mecánicas de la campaña/El Viaje - Tramos Marchas y Eventos\|El Viaje - Tramos Marchas y Eventos]]
-- [[Los Huérfanos del Sol/01 Mecánicas de la campaña/Gestión de la Luz y Descansos\|Gestión de la Luz y Descansos]]
+- [[Gestión de la Luz y Descansos\|Gestión de la Luz y Descansos]]
 ##  2. Lore de la Ambientación
 
 - [[Lore - El Proyecto Arca\|Lore - El Proyecto Arca]]    

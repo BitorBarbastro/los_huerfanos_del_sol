@@ -20,11 +20,8 @@ Cada hora real en el exterior exige una tirada horaria de Entereza (Constitució
 ##  2. Fuentes de luz 
 
 ### Luz mundana
-#### Antorchas
- Las antorchas son recursos muy comunes, cuestan **1 pieza de cobre cada una**, su alcance en los enclaves y túneles es de 30 pies, en el yermo, en cambio solo iluminan 15 pies alrededor debido a todo el polvo y ceniza en suspensión. Es imposible usar una antorcha durante [[Los Huérfanos del Sol/Anexo - Glosario del Yermo#El Rugido\|El Rugido]]
+#### [[Los Huérfanos del Sol/01 Mecánicas de la campaña/Objetos del Yermo#Antorcha\|Antorchas y faroles de aceite]]
 
-#### Faroles
-Los faroles son recursos poco comunes que permiten iluminar en el yermo de forma mas eficiente, **Un farol cuesta 2 piezas de oro** e **ilumina SIEMPRE en un radio de 30 pies**. Usar un farol requiere viales de aceite purificado, cada uno de estos viales dura **4 horas y cuestan 2 piezas de plata cada uno**. Los faroles son la forma mas común de iluminar durante [[Los Huérfanos del Sol/Anexo - Glosario del Yermo#El Rugido\|El Rugido]].
 ### Luz mágica
 
 #### Combustible mágico
@@ -42,7 +39,8 @@ La dificultad de la tirada dependerá de las condiciones ambientales.
 Durante la [[Los Huérfanos del Sol/Anexo - Glosario del Yermo#Calma Ciega\|Calma ciega]] el checkeo de concentración tendrá que igualar o superar CD 11
 Durante [[Los Huérfanos del Sol/Anexo - Glosario del Yermo#El Rugido\|El Rugido]] la dificultad aumenta hasta CD 14.
 
-Si se pierde la concentración se consumirá por completo el combustible que se estaba usando para mantener la llama ofreciendo un ultimo minuto de luz. Si se supera la tirada el combustible continua consumiéndose a su ritmo habitual
+Si se pierde la concentración se consumirá por completo el combustible que se estaba usando para mantener la llama ofreciendo un ultimo minuto de luz. 
+Si se supera la tirada el combustible continua consumiéndose a su ritmo habitual
 
 
 
@@ -52,7 +50,7 @@ Si se pierde la concentración se consumirá por completo el combustible que se 
 
 ---
 
-## 3. Logística del Viaje: Dificultades, Tiempos y Posturas de Marcha
+## 3. Dificultades, Tiempos y Posturas de Marcha
 
 El viaje a través del Yermo Ciego o sus entrañas es una lucha constante contra el esfuerzo físico y el frío. El grupo realiza **una tirada obligatoria de Entereza por cada hora real** que pase expuesto.
 
@@ -63,10 +61,10 @@ El viaje a través del Yermo Ciego o sus entrañas es una lucha constante contra
 | **CD 10**      | **Caminos de Sal:** Viajar por un camino balizado en superficie durante un período de _Calma Ciega_.                                                                                                |
 | **CD 12**      | **Túneles Subterráneos Abandonados:** Conductos colapsados, alcantarillas del Viejo Mundo o túneles de servicio sin mantenimiento térmico, expuestos a corrientes heladas y claustrofobia.          |
 | **CD 13**      | **Campo a través:** Viajar por el yermo durante un período de _Calma Ciega_. Cada 3 horas de viaje será necesario realizar una tirada para orientarse, si no se supera, se añadirá 1 hora al tramo. |
-| **CD 15**      | **Exposición Extrema:** Viajar en _Marcha Veloz_, adentrarse en zonas de ceniza densa o transitar durante el inicio de _El Rugido_.                                                                 |
-| **CD 17**      | **La Ventisca Negra:** Viajar en _Marcha Ciega_ bajo los efectos plenos de _El Rugido_ sin protección alguna.                                                                                       |
+| **CD 15**      | **Marcha Veloz**, bajo los efectos de **_El Rugido_**.                                                                                                                                              |
+| **CD 17**      | **Marcha Ciega** bajo los efectos de **El Rugido**                                                                                                                                                  |
 
-###  Tipos de Marcha Disponibles
+### Tipos de Marcha Disponibles
 
 El grupo debe declarar unánimemente una postura al iniciar un Tramo. Los efectos sobre el tiempo de viaje base (Camino: 4h / Campo a través: 6h) y el desgaste varían según el estado del clima:
 

@@ -29,7 +29,7 @@ Los penalizadores físicos y mentales se activan según los **puntos restantes e
     
 - **1 a 2 Puntos – Delirio:** El personaje apenas distingue la realidad de los susurros de la ceniza. **No puede realizar Reacciones**, pierde la capacidad de concentrarse en conjuros o habilidades y sufre **Desventaja en todas las tiradas de salvación** (incluida la propia Entereza).
     
-- **0 Puntos – Colapso:** El personaje cae inconsciente de inmediato debido a la congelación o el shock mental. Cada hora que pase a 0 puntos de Entereza en un entorno hostil le causará la pérdida automática de una dote de muerte o un nivel de Agotamiento irreversible.
+- **0 Puntos – Colapso:** El personaje cae inconsciente de inmediato debido a la congelación o el shock mental. Cada hora que pase a 0 puntos de Entereza en un entorno hostil le causará un nivel de Agotamiento.
     
 
 ## 3. Habilidades Vinculadas a la Entereza
@@ -40,7 +40,7 @@ La Entereza cuenta con tres habilidades específicas en las que los personajes p
 - Utilizada para resistir el pánico, ignorar las alucinaciones del yermo o evitar la locura temporal al presenciar aberraciones.
     
 ### Resistencia térmica (Entereza):
-- Se usa para realizar sobreesfuerzos físicos bajo el frío extremo, como desenterrar a un aliado atrapado en la ceniza o resistir daño por congelación.
+- Se usa para realizar sobreesfuerzos físicos bajo el frío extremo del yermo, como desenterrar a un aliado atrapado en la ceniza o resistir daño por congelación.
         
 
 ## 4. Dotes Especiales de Entereza 
@@ -48,7 +48,7 @@ La Entereza cuenta con tres habilidades específicas en las que los personajes p
 ### Rompehielos: 
 Tus pulmones se han adaptado al aire abrasivo de la superficie. Ganas resistencia a todo el  daño por frío y tus tiradas de Entereza durante la Marcha Veloz no sufren desventaja.
 ### Mente Hermética:
- Tu voluntad es un búnker cerrado. siempre sumas tu **Bonus de competencia** a tus tiradas de entereza.
+ Tu voluntad es un búnker. siempre sumas tu **Bonus de competencia** a tus tiradas de de salvación y habilidad de entereza.
 ### Sangre Noble:
 Te criaste cerca de los reactores geotérmicos. Tus puntos máximos de Entereza aumentan en un valor igual a tu **Bonus de Competencia** y cuando realizas una [[Los Huérfanos del Sol/01 Mecánicas de la campaña/El Viaje - Tramos Marchas y Eventos#Marcha Rompevientos\|Marcha rompevientos]]
  encordada haces de líder del grupo y  todos obtenéis +1 en tiradas de entereza.
@@ -57,16 +57,17 @@ Tu cuerpo ha aprendido a economizar energía de forma extrema bajo temperaturas 
 ### Paso Firme: 
 Tus ojos saben detectar los sutiles cambios en el hielo y la densidad de la nieve negra. Eres completamente inmune a los penalizadores del estado [[Los Huérfanos del Sol/01 Mecánicas de la campaña/El Sistema de Entereza#2. Dificultades (CD) de las Tiradas en el Mundo\|Entumecido]] (no sufres desventaja en iniciativa ni en tiradas de Destreza al bajar de 11 puntos). Además, tienes Ventaja en las tiradas de Atletismo o Acrobacias para evitar la [[Los Huérfanos del Sol/01 Mecánicas de la campaña/El Viaje - Tramos Marchas y Eventos#Marcha Temeraria\|Precariedad]] durante una Marcha Ciega o al explorar Túneles Subterráneos.
 
-## 5. Recuperación de entereza
+## 5.Descansos y  Recuperación de Entereza
 
 El descanso en este entorno no es una cura milagrosa; requiere infraestructuras seguras y recursos:
-   
-- **Descanso largo:** Se debe descansar durante 8 en una zona segura como un enclave, el personaje **no recupera el total**. En su lugar, restablece:
+
+### Descanso Corto
+Los descansos cortos (1 hora) se podrán realizar tanto en la superficie como bajo tierra, si se descansa en el yermo tendrá que ser en un [[Los Huérfanos del Sol/Anexo - Glosario del Yermo#Caparazones\|caparazón]] o en una zona habilita, permitirá restaurar puntos de golpe y características de clase, seguirá siendo necesario superar la tirada de entereza por la hora a la intemperie.
+
+### Descanso largo
+Los descansos largos (8 horas) se deben realizar en una zona segura como un enclave, la restauración de puntos de vida y características funciona exactamente igual que las [reglas oficiales](https://roll20.net/compendium/dnd5e/Resting#content)., pero los puntos de entereza no se recuperan en su totalizad, la formula para recuperarlos es la siguiente
 
 
 $$\text{Puntos Recuperados} = \left( \frac{\text{Máximo Total}}{2} \right) + \text{Bonus de Entereza}$$
 
-- **Penalizadores:** Si se realiza un descanso largo pero el sitio de descanso no garantiza una temperatura adecuada para el descanso <5°C  la formula será la siguiente:
-
-$$\text{Puntos Recuperados} = \left( \frac{\text{Máximo Total}}{2} \right)$$
 - **Consumir objetos de lujo:** Objetos como licores de alta graduación, tabaco o una comida caliente en condiciones recuperarán una cantidad de puntos de entereza determinada por cada objeto.

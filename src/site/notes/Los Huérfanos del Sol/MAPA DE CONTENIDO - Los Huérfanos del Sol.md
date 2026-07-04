@@ -5,7 +5,7 @@
 ## 1. Mecánicas de la Campaña
 
 - [[Los Huérfanos del Sol/01 Mecánicas de la campaña/El Sistema de Entereza\|El Sistema de Entereza]]
-- [[Los Huérfanos del Sol/01 Mecánicas de la campaña/El Viaje - Posturas y Tramos\|El Viaje - Posturas y Tramos]]
+- [[Los Huérfanos del Sol/01 Mecánicas de la campaña/El Viaje - Tramos Marchas y Eventos\|El Viaje - Tramos Marchas y Eventos]]
 - [[Los Huérfanos del Sol/01 Mecánicas de la campaña/Gestión de la Luz y Descansos\|Gestión de la Luz y Descansos]]
 ##  2. Lore de la Ambientación
 
@@ -18,7 +18,7 @@
 - [[Ubicaciones - Caminos y Rutas del Yermo\|Ubicaciones - Caminos y Rutas del Yermo]]
 ##  4. Facciones del Mundo
 
-##  5. Registro de NPCs 
+##  5. NPCs 
 
 #### Plantilla para crear los NPCs  [[Los Huérfanos del Sol/PlantillaNPC\|PlantillaNPC]] 
 ### Subterráneo (Enclaves y Búnkeres)

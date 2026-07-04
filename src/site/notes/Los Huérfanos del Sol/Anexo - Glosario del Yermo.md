@@ -8,7 +8,7 @@ Categoría: Glosario de Referencia
 
 #  Glosario del Yermo
 
-Diccionario de términos narrativos y ambientales para la campaña. Las reglas y valores matemáticos asociados se encuentran en la nota de [[Los Huérfanos del Sol/01 Mecánicas de la campaña/El Viaje - Posturas y Tramos\|El Viaje - Posturas y Tramos]].
+Diccionario de términos narrativos y ambientales para la campaña. Las reglas y valores matemáticos asociados se encuentran en la nota de [[Los Huérfanos del Sol/01 Mecánicas de la campaña/El Viaje - Tramos Marchas y Eventos\|El Viaje - Tramos Marchas y Eventos]].
 
 ---
 

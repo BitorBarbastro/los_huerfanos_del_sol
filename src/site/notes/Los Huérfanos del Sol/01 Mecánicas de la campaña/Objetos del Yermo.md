@@ -18,6 +18,12 @@
 **Descripción**: Dispositivo de hierro pesado y cristal blindado diseñado para proteger la llama del viento. 
 **Uso**: Equipo (requiere una mano libre). 
 **Efectos**: Ilumina siempre en un radio de 30 pies, ignorando la penalización por ceniza del yermo. Requiere consumibles para funcionar: cada vial de aceite purificado cuesta 2 pp y ofrece 4 horas de luz. Es el método más común y seguro para mantener la iluminación durante El Rugido.
+
+#### Piedra luz o calor solar
+Permite cargarse mágicamente otorgan luz y/o calor
+
+#### Piedra mineral lumínica 
+
 ### Consumibles de Lujo
 
 #### Destilado de Ceniza "Cortafrío" 

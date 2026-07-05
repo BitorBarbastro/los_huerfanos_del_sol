@@ -12,15 +12,34 @@ En este laberinto de piedra y sombras, el colapso del mundo exterior obligó a c
 
 - ¿Cómo están distribuidas las diferentes razas dentro del enclave? ¿Hay barrios enteros de elfos o enanos, o la necesidad extrema ha obligado a una integración total en cada pasillo húmedo?
 
+
+La mayoria de enclaves están formados por multitud de razas, las culturas dentro de cada enclave son bastante uniformes
+
+
 - ¿Hay una clara diferencia de clases o esta todo el mundo sumido en la miseria?
 
+Hay una clara diferencia de clases, pueden estar basadas en el trabajo de cada criatura (minero, ingeniero, mago...) y dependiendo del gobierno del enclave
+
 - ¿Qué aspecto tiene la zona más próspera del asentamiento y qué la diferencia de los suburbios más oscuros y asfixiantes?
-    
+
+Las zonas mas ricas tienen temperaturas mas estables, calles correctamente iluminadas. 
+
+
 - ¿Cómo se viaja o se comercia entre un enclave y otro a través de los túneles? ¿Existen caminos seguros o cada viaje es una expedición militar?
+
+
+La mayoria de trayectos se realizan bajo tierra mediante tuneles, en raras ocasiones es necesario cruzar por el yermo. Puede que haya caminos entre enclaves concretos
+
     
 - ¿Qué ocurre cuando un enclave se queda sin espacio físico debido al crecimiento de la población o al derrumbe de una galería principal?
 
+Controles de natalidad. Expansion de cavernas. Exilio
+
+
+
 - ¿Qué tamaño tienen los enclaves decenas o miles de habitantes?
+
+Los enclaves principales de cada región tendrá entre 30 000 y 50 000 habitantes de los enclaves principales colgarán pequeños enclaves que dependen del principal
     
 ### Sustento y Recursos Críticos
 

@@ -197,6 +197,8 @@ Grupo de exploradores de tuneles
 
 Tiradas de los jugadores
 
+**NO INFRAVALOREIS LA CONSTITUCIÓN**
+
 Freniche
 9
 15
@@ -225,3 +227,4 @@ David
 9
 8
 10
+

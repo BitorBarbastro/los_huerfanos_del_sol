@@ -44,32 +44,73 @@ Los enclaves principales de cada región tendrá entre 30 000 y 50 000 habitante
 ### Sustento y Recursos Críticos
 
 - ¿De dónde se extrae el agua potable para mantener vivas a tantas especies? ¿Proviene de ríos subterráneos, un racionamiento centralizado?
+
+
+La mayoria de las ciudades viven de acuiferos y rios subterraneos
+
     
 - ¿Cuál es el alimento base de la población en el día a día? Cultivo o ganado subterráneo, cacería en la superficie?
+
+Se cultiva en el subsuelo mediante el uso de las [[Los Huérfanos del Sol/01 Mecánicas de la campaña/Objetos del Yermo#Piedra luz o calor solar\|piedras solares y minerales]], cultivo de hongos, ganado en el subsuelo.
     
 - ¿Cómo se produce o se consigue el aceite para las lámparas, siendo este tan vital como el aire? ¿Se extrae de la grasa de monstruos subterráneos, de plantas raras que crecen en las profundidades o es un recurso del viejo mundo?
+
+Todas son correctas 
+
     
 - ¿Cómo se renueva el aire en los niveles más profundos de las ciudades? ¿Dependéis de corrientes de aire naturales, de grandes mecanismos de fuelle artificiales o hay algún factor desconocido involucrado?
-    
+
+
+Muchos asentamientos generan su propio oxigeno, en algunos casos hay extractores mecanicos mantenidos por ingenieros
+
+
 - ¿Qué se hace con los desechos y con los muertos en un espacio cerrado donde nada se puede de desperdiciar?
+
+Dependerá de cada enclave y raza, en algunos casos se entierran, creman, sacrifican o incluso se recurre al canibalismo
+
     
 - ¿Qué recurso básico falta tanto en este momento que su precio en el mercado negro duplica al del oro?
+
+El recurso mas valioso son las piedras solares, la madera y conocimiento del viejo mundo
 
 ### El Día a Día y la Economía del Túnel
 
 - ¿Cuáles son los oficios más comunes y cuáles los más peligrosos pero necesarios para que el enclave no muera?
+
+Comunen - mineros, agricultores
+Valorado - magos, ingenieros
+Peligroso - limpiadores de túneles, comerciantes
+
     
 - ¿Quiénes son los encargados de mantener las luces encendidas en las zonas comunes y qué castigo recibe alguien que robe o sabotee una lámpara pública?
+
+Los enclaves se iluminan con piedras solares en la mayoria de casos
+El castigo por el sabotaje varia por zonas, exilio, ejecucion publica, castigos forzados o combates en la arena
+
     
 - ¿Cómo miden el paso del tiempo las diferentes razas en un mundo donde no existe el ciclo del día y la noche?
+
+Revisar sistema drow
+Estrellas o relojes de arena
+Metodos magicos / steampunk
     
 - ¿Qué hace la gente común para entretenerse, olvidar el miedo o evadirse de la presión de la roca cuando no está trabajando?
+
+Circo, arena, apuestas, teatro 
+
     
 - ¿Cómo afecta la falta de luz solar a la salud de las distintas razas? ¿Hay enfermedades comunes del túnel que requieran cuidados constantes?
+
+
+Silicosis, enfermedades pulmonares
+
 
 ### Gobierno, Ley y Orden
 
 - ¿Quién o quiénes ostentan el poder en el enclave? ¿Un consejo de sabios de distintas razas, un señor de la guerra que controla el pozo de agua principal o una aristocracia que heredó el control antes de que el sol muriera?
+
+Se define en cada enclave
+
     
 - ¿Cómo se gestiona la justicia en un lugar donde encarcelar a alguien consume aire y comida vitales? ¿Se recurre al trabajo forzado en los túneles profundos o al exilio directo a la superficie helada?
     
@@ -84,23 +125,37 @@ Los enclaves principales de cada región tendrá entre 30 000 y 50 000 habitante
 ### Creencias y el Mundo Exterior
 
 - ¿A qué deidades se les reza ahora que el sol ya no existe? ¿Siguen vigentes los antiguos dioses de la superficie o han surgido nuevos cultos a la roca, a la oscuridad y al silencio?
-    
+
+Emergen nuevas religiones, en algunos cultos se siguen venerando a los dioses del viejo mundo 
+
 - ¿Qué leyendas o supersticiones absurdas han empezado a contar las generaciones más jóvenes sobre el cielo azul que nunca llegaron a ver?
+
+Leyendas sobre la destrucción del sol
+Criaturas de la superficie 
+Criaturas de lo mas profundo
+Comerciantes que pasan de un enclave 
     
 - ¿Qué es lo más extraño o peligroso que los parias y saqueadores han conseguido traer de las zonas muertas de la superficie?
 ### El Origen y la Creación de los Túneles
 
 - ¿Esta inmensa red de galerías ya existía antes del cataclismo, esperando bajo tierra como un refugio natural, o fue excavada a toda prisa por las razas desesperadas mientras la superficie se congelaba?
+
+Se aprovecho infraestructura previa de las cavernas naturas y se amplían y se crean más 
     
 - ¿Qué evidencias quedan en las paredes de roca sobre sus constructores originales? ¿Muestran marcas de picos enanos, el rastro de antiguas bestias colosales que perforaron la tierra, o lo hizo un mago?
     
 - ¿Existen sectores profundos que se consideran prohibidos o malditos?
+
+
     
 - ¿Qué razas asumieron el castigo físico de perforar la roca para expandir las ciudades y cómo ha afectado ese sacrificio histórico a su estatus social actual?
 
 ### Los Secretos del Mundo Exterior y la Superficie
 
 - ¿Cómo se aíslan los enclaves subterráneos del desierto de la superficie? ¿A que profundidad están situados, como se entra y sale de los mismos?
+
+Tuneles largos separan los enclaves de la superficie, ligera vigilancia en puntos intermedios para refugiados y exiliados
+
     
 - ¿Existe algún mito o superstición sobre la existencia de zonas de calor en el exterior, lugares donde el fuego de la tierra mantiene el hielo a raya y donde se podría volver a respirar aire puro?
     
@@ -109,10 +164,64 @@ Los enclaves principales de cada región tendrá entre 30 000 y 50 000 habitante
 ### Las Facciones y Grupos de Poder en las Sombras
 
 - ¿Qué organización o cártel controla el monopolio absoluto de las mechas y el aceite para las lámparas, y qué métodos despiadados utilizan para aplastar a cualquiera que intente buscar fuentes alternativas de luz?
+
+No hay problema de suministros no hay intermediarios
     
 - ¿Existe una facción de fanáticos o un culto religioso que adore la ausencia del sol?
-    
-- ¿Hay alguna alianza secreta entre las razas más longevas para acaparar los libros y registros del viejo mundo,?
 
-- ¿Quien domina la superficie, son criaturas organizadas o es el caos de la naturaleza en la oscuridad?
-- ¿Existe el comercio entre enclaves o son autosuficientes en su mayoria?
+Clanes de la superficie
+Sectarios de la oscuridad / luna negra
+Magos cargadores de piedras
+Ingenieros
+Mineros / hacedores de túneles 
+Militares
+Comerciantes
+Politicos
+
+Pendiente cadena trofica de ma superficie
+Liquen / musgo magico
+Magia salvaje??
+Todo alimento y liquido de la superficie está contamina 
+
+
+Moneda de oro -> med
+Moneda de plata -> 
+Moneda de cobre -> 
+
+
+
+
+
+Grupo de exploradores de tuneles
+
+
+Tiradas de los jugadores
+
+Freniche
+9
+15
+9
+16
+11
+13
+Medardo
+8
+12
+12
+8
+15
+8
+Pedro 
+15
+10
+15
+12
+17
+11
+David
+13
+10
+15
+9
+8
+10

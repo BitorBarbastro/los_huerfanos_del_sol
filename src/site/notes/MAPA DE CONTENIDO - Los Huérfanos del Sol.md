@@ -23,6 +23,6 @@
 
 ## 6. Diario de Campaña y Bitácora
 ## 7. Anexos
- - [Ficha de creación de personaje](/img/user/07%20Anexos/Ficha%20de%20personaje.pdf)
+ - <iframe src="/img/user/07%20Anexos/Ficha%20de%20personaje.pdf" width="100%" height="900px" title="Ficha de creación de personaje" style="border:1px solid #ccc;"></iframe>
  - [[07 Anexos/Anexo - Glosario del Yermo\|Glosario de términos]]
  - [[PlantillaNPC \|Plantilla para la creación de NPCs]]

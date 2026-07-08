@@ -92,11 +92,11 @@ El castigo por el sabotaje varia por zonas, exilio, ejecucion publica, castigos 
 
 Revisar sistema drow
 Estrellas o relojes de arena
-Metodos magicos / steampunk
+Métodos mágicos / steampunk
     
 - ¿Qué hace la gente común para entretenerse, olvidar el miedo o evadirse de la presión de la roca cuando no está trabajando?
 
-Circo, arena, apuestas, teatro...
+Circo, arena, apuestas, teatro... Drogas, fermentación de hongos, potentes mezclas con sangre de monstruos del yermo
 
     
 - ¿Cómo afecta la falta de luz solar a la salud de las distintas razas? ¿Hay enfermedades comunes del túnel que requieran cuidados constantes?

@@ -10,6 +10,8 @@
 
 ##  2. Lore de la Ambientación
 
+- [[02 Lore y ambientacion/Registro Socioeconómico del Subsuelo\|Registro Socioeconómico del Subsuelo]]
+- [[02 Lore y ambientacion/Crónica del Fin de la Luz\|Crónica del Fin de la Luz]]
 - [[Lore - El Proyecto Arca\|Lore - El Proyecto Arca]]    
 - [[Lore - La Guerra por el Subsuelo\|Lore - La Guerra por el Subsuelo]]
 ##  3. Ubicaciones y Entorno

@@ -4,7 +4,7 @@
 
 #  Sistema de Viaje: Tramos, Marchas y Eventos
 
-Este documento regula el desplazamiento por el [[Anexo - Glosario del Yermo#El Yermo Ciego\|Yermo Ciego]]. El viaje se divide en Tramos de Distancia, pero las Horas Reales de Exposición y los acontecimientos del camino dependen del terreno y la marcha elegida.
+Este documento regula el desplazamiento por el [[07 Anexos/Anexo - Glosario del Yermo#El Yermo Ciego\|Yermo Ciego]]. El viaje se divide en Tramos de Distancia, pero las Horas Reales de Exposición y los acontecimientos del camino dependen del terreno y la marcha elegida.
 
 Cada hora real en el exterior exige una tirada horaria de Entereza (Constitución / Cordura) y consume combustible de luz.
 
@@ -36,8 +36,8 @@ Concentración de luz mágica = 1d20 + Bonus aptitud mágica + bonus entereza
 Si el lanzador tiene Alguna dote o mejora que cualquier tipo que mejore la concentración los cambios se aplicarán a la tirada.
 
 La dificultad de la tirada dependerá de las condiciones ambientales. 
-Durante la [[Anexo - Glosario del Yermo#Calma Ciega\|Calma ciega]] el checkeo de concentración tendrá que igualar o superar CD 11
-Durante [[Anexo - Glosario del Yermo#El Rugido\|El Rugido]] la dificultad aumenta hasta CD 14.
+Durante la [[07 Anexos/Anexo - Glosario del Yermo#Calma Ciega\|Calma ciega]] el checkeo de concentración tendrá que igualar o superar CD 11
+Durante [[07 Anexos/Anexo - Glosario del Yermo#El Rugido\|El Rugido]] la dificultad aumenta hasta CD 14.
 
 Si se pierde la concentración se consumirá por completo el combustible que se estaba usando para mantener la llama ofreciendo un ultimo minuto de luz. 
 Si se supera la tirada el combustible continua consumiéndose a su ritmo habitual

@@ -65,7 +65,7 @@ Tus ojos saben detectar los cambios en el hielo y la densidad de la nieve. Eres 
 El descanso en este entorno no es una cura milagrosa; requiere infraestructuras seguras y recursos:
 
 ### Descanso Corto
-Los descansos cortos (1 hora) se podrán realizar tanto en la superficie como bajo tierra, si se descansa en el yermo tendrá que ser en un [[Anexo - Glosario del Yermo#Caparazones\|caparazón]] o en una zona habilita, permitirá restaurar puntos de golpe y características de clase, seguirá siendo necesario superar la tirada de entereza por la hora a la intemperie.
+Los descansos cortos (1 hora) se podrán realizar tanto en la superficie como bajo tierra, si se descansa en el yermo tendrá que ser en un [[07 Anexos/Anexo - Glosario del Yermo#Caparazones\|caparazón]] o en una zona habilita, permitirá restaurar puntos de golpe y características de clase, seguirá siendo necesario superar la tirada de entereza por la hora a la intemperie.
 
 ### Descanso largo
 Los descansos largos (8 horas) se deben realizar en una zona segura como un enclave, la restauración de puntos de vida y características funciona exactamente igual que las [reglas oficiales](https://roll20.net/compendium/dnd5e/Resting#content)., pero los puntos de entereza no se recuperan en su totalizad, la formula para recuperarlos es la siguiente

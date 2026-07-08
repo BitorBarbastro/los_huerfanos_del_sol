@@ -3,6 +3,7 @@
 ---
 
 [Ficha de personaje.pdf](/img/user/Ficha%20de%20personaje.pdf)
+<iframe src="/img/user/Ficha%20de%20personaje.pdf" width="100%" height="900px" title="Ficha de personaje.pdf" style="border:1px solid #ccc;"></iframe>
 ## 1. Mecánicas de la Campaña
 
 - [[01 Mecánicas de la campaña/El Sistema de Entereza\|El Sistema de Entereza]]

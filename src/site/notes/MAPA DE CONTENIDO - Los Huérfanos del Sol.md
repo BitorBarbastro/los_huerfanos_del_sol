@@ -2,20 +2,22 @@
 {"dg-publish":true,"permalink":"/mapa-de-contenido-los-huerfanos-del-sol/","tags":["gardenEntry"],"dg-note-properties":{}}
 ---
 
+[Ficha de personaje.pdf](/img/user/Ficha%20de%20personaje.pdf)
 ## 1. Mecánicas de la Campaña
 
 - [[01 Mecánicas de la campaña/El Sistema de Entereza\|El Sistema de Entereza]]
 - [[01 Mecánicas de la campaña/El Viaje - Tramos Marchas y Eventos\|El Viaje - Tramos Marchas y Eventos]]
-- [[Gestión de la Luz y Descansos\|Gestión de la Luz y Descansos]]
+- [[01 Mecánicas de la campaña/Objetos del Yermo\|Objetos del Yermo]]
+
 ##  2. Lore de la Ambientación
 
 - [[Lore - El Proyecto Arca\|Lore - El Proyecto Arca]]    
 - [[Lore - La Guerra por el Subsuelo\|Lore - La Guerra por el Subsuelo]]
 ##  3. Ubicaciones y Entorno
 
-- [[Ubicaciones - Enclaves y Búnkeres\|Ubicaciones - Enclaves y Búnkeres]]
-- [[Ubicaciones - Exclusas y Puntos de Tránsito\|Ubicaciones - Exclusas y Puntos de Tránsito]]
-- [[Ubicaciones - Caminos y Rutas del Yermo\|Ubicaciones - Caminos y Rutas del Yermo]]
+- [[03 Ubicaciones/Enclaves\|Enclaves]]
+- [[03 Ubicaciones/La Superficie (El Yermo)\|La Superficie (El Yermo)]]
+- [[03 Ubicaciones/Túneles\|Túneles]]
 ##  4. Facciones del Mundo
 
 ##  5. NPCs 

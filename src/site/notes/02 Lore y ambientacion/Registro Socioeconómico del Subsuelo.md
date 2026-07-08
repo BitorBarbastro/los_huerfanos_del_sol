@@ -3,7 +3,7 @@
 ---
 
 *La muerte del sol reconfiguró por completo la pirámide social de los enclaves supervivientes. En este mundo subterráneo, el estatus y la riqueza se miden en metros de profundidad.*
-<p style="text-align: right;">— **Maestre Valerius**, _Tratado de la Verticalidad_ </p>
+<p style="text-align: right;">— Maestre Valerius, Tratado de la Verticalidad</p>
 
 ### La Geografía Vertical del Privilegio
 

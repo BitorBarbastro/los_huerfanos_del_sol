@@ -96,7 +96,7 @@ Metodos magicos / steampunk
     
 - ¿Qué hace la gente común para entretenerse, olvidar el miedo o evadirse de la presión de la roca cuando no está trabajando?
 
-Circo, arena, apuestas, teatro 
+Circo, arena, apuestas, teatro...
 
     
 - ¿Cómo afecta la falta de luz solar a la salud de las distintas razas? ¿Hay enfermedades comunes del túnel que requieran cuidados constantes?
@@ -112,16 +112,6 @@ Silicosis, enfermedades pulmonares
 Se define en cada enclave
 
     
-- ¿Cómo se gestiona la justicia en un lugar donde encarcelar a alguien consume aire y comida vitales? ¿Se recurre al trabajo forzado en los túneles profundos o al exilio directo a la superficie helada?
-    
-- ¿Existe una fuerza de ley unificada que proteja a todos los ciudadanos por igual o el enclave está fragmentado en sectores protegidos por sus propias milicias y bandas familiares?
-    
-- ¿Qué tan cerca está la comunidad del caos absoluto y qué es lo único que impide que la población se levante y destroce el orden establecido?
-    
-- ¿Cómo reaccionan las autoridades ante la disidencia, el robo de raciones o los rumores de que el aire se está acabando?
-    
-- ¿Qué razas o grupos sociales se sienten más oprimidos por el gobierno actual y cuáles son los que se benefician de la situación?
-
 ### Creencias y el Mundo Exterior
 
 - ¿A qué deidades se les reza ahora que el sol ya no existe? ¿Siguen vigentes los antiguos dioses de la superficie o han surgido nuevos cultos a la roca, a la oscuridad y al silencio?
@@ -133,22 +123,12 @@ Emergen nuevas religiones, en algunos cultos se siguen venerando a los dioses de
 Leyendas sobre la destrucción del sol
 Criaturas de la superficie 
 Criaturas de lo mas profundo
-Comerciantes que pasan de un enclave 
     
-- ¿Qué es lo más extraño o peligroso que los parias y saqueadores han conseguido traer de las zonas muertas de la superficie?
 ### El Origen y la Creación de los Túneles
 
 - ¿Esta inmensa red de galerías ya existía antes del cataclismo, esperando bajo tierra como un refugio natural, o fue excavada a toda prisa por las razas desesperadas mientras la superficie se congelaba?
 
-Se aprovecho infraestructura previa de las cavernas naturas y se amplían y se crean más 
-    
-- ¿Qué evidencias quedan en las paredes de roca sobre sus constructores originales? ¿Muestran marcas de picos enanos, el rastro de antiguas bestias colosales que perforaron la tierra, o lo hizo un mago?
-    
-- ¿Existen sectores profundos que se consideran prohibidos o malditos?
-
-
-    
-- ¿Qué razas asumieron el castigo físico de perforar la roca para expandir las ciudades y cómo ha afectado ese sacrificio histórico a su estatus social actual?
+Se aprovechó infraestructura previa de las cavernas naturas y se amplían y se crean más 
 
 ### Los Secretos del Mundo Exterior y la Superficie
 
@@ -156,10 +136,6 @@ Se aprovecho infraestructura previa de las cavernas naturas y se amplían y se c
 
 Tuneles largos separan los enclaves de la superficie, ligera vigilancia en puntos intermedios para refugiados y exiliados
 
-    
-- ¿Existe algún mito o superstición sobre la existencia de zonas de calor en el exterior, lugares donde el fuego de la tierra mantiene el hielo a raya y donde se podría volver a respirar aire puro?
-    
-- ¿El desierto helado es completamente estático o los horrores ciegos y las tormentas de nieve están empezando a descender y presionar las entradas superiores de los túneles?
 
 ### Las Facciones y Grupos de Poder en las Sombras
 
@@ -178,18 +154,15 @@ Militares
 Comerciantes
 Politicos
 
-Pendiente cadena trofica de ma superficie
+Pendiente cadena trofica de la superficie
 Liquen / musgo magico
 Magia salvaje??
-Todo alimento y liquido de la superficie está contamina 
+Todo alimento y liquido de la superficie está contaminado
 
 
-Moneda de oro -> med
-Moneda de plata -> 
-Moneda de cobre -> 
-
-
-
+Pendiente asignacion de las monedas
+De momento se mantiene orden clasico
+Copper x10 silver x10 **med**
 
 
 Grupo de exploradores de tuneles

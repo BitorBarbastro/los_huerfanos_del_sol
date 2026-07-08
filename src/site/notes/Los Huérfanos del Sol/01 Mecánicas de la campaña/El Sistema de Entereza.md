@@ -34,13 +34,16 @@ Los penalizadores físicos y mentales se activan según los **puntos restantes e
 
 ## 3. Habilidades Vinculadas a la Entereza
 
-La Entereza cuenta con tres habilidades específicas en las que los personajes pueden especializarse (añadiendo su Bonus de Competencia si disponen de ella):
+La Entereza cuenta con tres habilidades específicas en las que los personajes pueden especializarse:
 
-### Calma mental (Entereza):
-- Utilizada para resistir el pánico, ignorar las alucinaciones del yermo o evitar la locura temporal al presenciar aberraciones.
+### Calma mental (Entereza)
+Utilizada para resistir la claustrofobia de los túneles subterráneos,  las alucinaciones  provocadas o presenciar aberraciones.
+
+### Robustez (Entereza) 
+Utilizada para soportar las condiciones climáticas extremas, la escasez de oxígeno  o el esfuerzo físico continuado.
     
-### Resistencia térmica (Entereza):
-- Se usa para realizar sobreesfuerzos físicos bajo el frío extremo del yermo, como desenterrar a un aliado atrapado en la ceniza o resistir daño por congelación.
+### Conservación (Entereza)
+Utilizada para exprimir al máximo el rendimiento de un recurso (aceite, antorchas...). Un fallo arruina el recurso en su mayoría, pero un éxito altera sus propiedades para que rinda muy por encima de lo normal.
         
 
 ## 4. Dotes Especiales de Entereza 
@@ -48,14 +51,14 @@ La Entereza cuenta con tres habilidades específicas en las que los personajes p
 ### Rompehielos: 
 Tus pulmones se han adaptado al aire abrasivo de la superficie. Ganas resistencia a todo el  daño por frío y tus tiradas de Entereza durante la Marcha Veloz no sufren desventaja.
 ### Mente Hermética:
- Tu voluntad es un búnker. siempre sumas tu **Bonus de competencia** a tus tiradas de de salvación y habilidad de entereza.
+ Tu voluntad es un búnker. siempre sumas tu **Bonus de competencia** a tus tiradas de de salvación y habilidad de entereza. Además eres competente en una habilidad de entereza a tu elección.
 ### Sangre Noble:
 Te criaste cerca de los reactores geotérmicos. Tus puntos máximos de Entereza aumentan en un valor igual a tu **Bonus de Competencia** y cuando realizas una [[Los Huérfanos del Sol/01 Mecánicas de la campaña/El Viaje - Tramos Marchas y Eventos#Marcha Rompevientos\|Marcha rompevientos]]
  encordada haces de líder del grupo y  todos obtenéis +1 en tiradas de entereza.
 ### Metabolismo glaciar:
 Tu cuerpo ha aprendido a economizar energía de forma extrema bajo temperaturas de congelación. Consumes la mitad de raciones de comida en el exterior y, cuando el grupo sufre un [[Los Huérfanos del Sol/01 Mecánicas de la campaña/El Viaje - Tramos Marchas y Eventos#Fallo Grupal El Sumatorio del Frío\|Golpe de Frío Anómalo o un Vórtice de Ceniza]] debido al sumatorio de fallos del d100, tú eres inmune a la pérdida de esos puntos de Entereza adicionales.
 ### Paso Firme: 
-Tus ojos saben detectar los sutiles cambios en el hielo y la densidad de la nieve negra. Eres completamente inmune a los penalizadores del estado [[Los Huérfanos del Sol/01 Mecánicas de la campaña/El Sistema de Entereza#2. Dificultades (CD) de las Tiradas en el Mundo\|Entumecido]] (no sufres desventaja en iniciativa ni en tiradas de Destreza al bajar de 11 puntos). Además, tienes Ventaja en las tiradas de Atletismo o Acrobacias para evitar la [[Los Huérfanos del Sol/01 Mecánicas de la campaña/El Viaje - Tramos Marchas y Eventos#Marcha Temeraria\|Precariedad]] durante una Marcha Ciega o al explorar Túneles Subterráneos.
+Tus ojos saben detectar los cambios en el hielo y la densidad de la nieve. Eres completamente inmune a los penalizadores del estado [[Los Huérfanos del Sol/01 Mecánicas de la campaña/El Sistema de Entereza#2. Dificultades (CD) de las Tiradas en el Mundo\|Entumecido]] (no sufres desventaja en iniciativa ni en tiradas de Destreza al bajar de 11 puntos). Además, tienes Ventaja en las tiradas de Atletismo o Acrobacias para evitar la [[Los Huérfanos del Sol/01 Mecánicas de la campaña/El Viaje - Tramos Marchas y Eventos#Marcha Temeraria\|Precariedad]] durante una Marcha Ciega o al explorar Túneles Subterráneos.
 
 ## 5.Descansos y  Recuperación de Entereza
 

@@ -2,16 +2,6 @@
 {"dg-publish":true,"permalink":"/07-anexos/anexo-glosario-del-yermo/","dg-note-properties":{}}
 ---
 
-Tipo: Anexo / Lore
-Categoría: Glosario de Referencia
----
-
-#  Glosario del Yermo
-
-Diccionario de términos narrativos y ambientales para la campaña. Las reglas y valores matemáticos asociados se encuentran en la nota de [[01 Mecánicas de la campaña/El Viaje - Tramos Marchas y Eventos\|El Viaje - Tramos Marchas y Eventos]].
-
----
-
 ## Entorno y Clima
 
 ### El Yermo
@@ -56,4 +46,12 @@ Fenómeno físico que ocurre en los accesos a los búnkeres, donde el calor geot
 ### Augures de Ceniza
 Especialistas o místicos de los enclaves subterráneos que interpretan los cambios de presión atmosférica para predecir los ciclos de las tormentas.
 
+### Klup
 
+Sustancia narcótica obtenida a partir del zumo de las larvas de los escarabajos gigantes. Su valor en el mercado crece exponencialmente a medida que se desciende hacia los distritos más profundos.
+
+Por lo general, se comercializa concentrado en una pasta muy pegajosa que se consume colocándola directamente debajo de la lengua para una absorción lenta. Su uso continuado altera drásticamente la pigmentación de la cavidad bucal, tiñendo la lengua de un tono inconfundible
+
+### Divisas en los enclaves
+[[02 Lore y ambientacion/Códices del Viejo  y Nuevo Mundo/Registro Socioeconómico del Subsuelo#El Flujo de la Moneda Escamas, Lascas y Ascuas\|Escamas lascas y ascuas]]
+ 

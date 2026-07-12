@@ -10,13 +10,13 @@
 
 ##  2. Lore de la Ambientación
 
-- [[02 Lore y ambientacion/Registro Socioeconómico del Subsuelo\|Registro Socioeconómico del Subsuelo]]
-- [[02 Lore y ambientacion/Crónica del Fin de la Luz\|Crónica del Fin de la Luz]]
+- [[02 Lore y ambientacion/Códices del Viejo  y Nuevo Mundo/Registro Socioeconómico del Subsuelo\|Registro Socioeconómico del Subsuelo]]
+- [[02 Lore y ambientacion/Códices del Viejo  y Nuevo Mundo/Crónica del Fin de la Luz\|Crónica del Fin de la Luz]]
 - [[Lore - El Proyecto Arca\|Lore - El Proyecto Arca]]    
 - [[Lore - La Guerra por el Subsuelo\|Lore - La Guerra por el Subsuelo]]
 ##  3. Ubicaciones y Entorno
 
-- [[03 Ubicaciones/Enclaves\|Enclaves]]
+- [[03 Ubicaciones/Enclaves/Dol-Mewin\|Enclaves]]
 - [[03 Ubicaciones/La Superficie (El Yermo)\|La Superficie (El Yermo)]]
 - [[03 Ubicaciones/Túneles\|Túneles]]
 ##  4. Facciones del Mundo

@@ -156,13 +156,13 @@ Si uno o más personajes fallan sus tiradas de Entereza, el entorno les castiga 
 3. Se consulta la siguiente tabla según el **Sumatorio Total**:
     
 
-|**Suma Total**|**Consecuencia Grupal**|
-|---|---|
-|**Menos de 80**|**Desgaste Ordinario:** El frío cala, pero la formación se mantiene. Sin efectos adicionales.|
-|**80 a 159**|**Golpe de Frío Anómalo:** Todo el grupo (hayan fallado o no) pierde **1 punto de Entereza** extra por una bajada brusca de temperatura.|
-|**160 a 239**|**Alteración del Ciclo:** El clima colapsa. Si viajaban en _Calma Ciega_, estalla _El Rugido_ (visibilidad cero). Si viajaban en _El Rugido_, la tormenta cesa instantáneamente (_Calma Ciega_), dejando al grupo expuesto mientras hacían ruido.|
-|**240 a 319**|**Fisura Mental y Ferales:** El grupo pierde **2 puntos de Entereza** adicionales. El rastro de torpeza atrae a una jauría de **Ferales** que os asalta de inmediato.|
-|**320 o más**|**Vórtice de Ceniza:** El grupo pierde **3 puntos de Entereza** adicionales. El farol principal explota o se apaga por congelación del combustible; el grupo queda sumido en la **Oscuridad** total.|
+| **Suma Total**  | **Consecuencia Grupal**                                                                                                                                                                                                                           |
+| --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Menos de 80** | **Desgaste Ordinario:** El frío cala, pero la formación se mantiene. Sin efectos adicionales.                                                                                                                                                     |
+| **80 a 159**    | **Golpe de Frío Anómalo:** Todo el grupo (hayan fallado o no) pierde **1 punto de Entereza** extra por una bajada brusca de temperatura.                                                                                                          |
+| **160 a 239**   | **Alteración del Ciclo:** El clima colapsa. Si viajaban en _Calma Ciega_, estalla _El Rugido_ (visibilidad cero). Si viajaban en _El Rugido_, la tormenta cesa instantáneamente (_Calma Ciega_), dejando al grupo expuesto mientras hacían ruido. |
+| **240 a 319**   | **Fisura Mental y Ferales:** El grupo pierde **2 puntos de Entereza** adicionales. El rastro de torpeza atrae a una jauría de **Ferales** que os asalta de inmediato.                                                                             |
+| **320 o más**   | **Vórtice de Ceniza:** El grupo pierde **3 puntos de Entereza** adicionales. La fuente de luz principal explota o se apaga por congelación del combustible; el grupo queda sumido en la **Oscuridad** total.                                      |
 
 ##  Impacto Crítico (Regla Especial)
 

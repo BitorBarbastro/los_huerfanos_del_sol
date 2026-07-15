@@ -4,32 +4,32 @@
 
 ##  1. Puntuación y Cálculo 
 
-Durante la creación de personaje la Entereza se establece como un atributo con una reserva de puntos gestionable y un modificador aplicable a las tiradas activas.
+En casa subida de nivel y durante la creación de personaje la Entereza se establece como un atributo con una reserva de puntos gestionable y un modificador aplicable a las tiradas activas.
 
-- **Puntos Máximos de Entereza:** Se calculan sumando de tus estadísticas de sabiduría y constitución
+- **Puntos Máximos de Entereza:** Se calculan sumando bonus de tus estadísticas de sabiduría y constitución
 
 Puntos de entereza = 10 + Modificador de constitución + Modificador de Sabiduría + Bonus de competencia
 
 - **Bonus de Entereza (Para Tiradas):** Cuando el DM solicite una tirada de salvación de Entereza o una prueba de sus habilidades asociadas, el modificador a aplicar será: 
 	
-    A partir de 10 cada 2 puntos por encima significa +1 al bonus, por ejemplo 
+    A partir de 10 cada 2 puntos por encima significa +1 al bonus, por ejemplo:
+    
     12 -> +1
     15 -> +2
     16 -> +3
-
 ## 2. Umbrales de Desgaste (Valores Absolutos)
 
-Los penalizadores físicos y mentales se activan según los **puntos restantes exactos** del personaje. De esta forma, un personaje con una puntuación máxima alta (ej. 17 puntos) mantendrá su estado óptimo durante mucho más tiempo que uno con una puntuación baja (ej. 11 puntos), quien entrará en crisis casi de inmediato.
+Las penalizaciónes físicas y mentales se activan según los **puntos restantes exactos** del personaje. De esta forma, un personaje con una puntuación máxima alta (ej. 17 puntos) mantendrá su estado óptimo durante mucho más tiempo que uno con una puntuación baja (ej. 11 puntos), quien entrará en crisis casi de inmediato.
 
-- **11 Puntos o más – Estado Estable:** Sin penalizadores. El personaje está concentrado y lleno de energía.
+- **11 Puntos o más – Estado Estable:** Sin penalizaciónes. El personaje está concentrado y lleno de energía.
     
-- **6 a 10 Puntos – Estado Entumecido:** Los temblores musculares dificultan la psicomotricidad fina y la velocidad de reacción. El personaje tiene **Desventaja en tiradas de Destreza (Juego de Manos y Acrobacias)** y en las tiradas de **Iniciativa**.
+- **6 a 10 Puntos – Estado Entumecido:** Los temblores musculares dificultan la psicomotricidad fina y la velocidad de reacción. El personaje tiene **Desventaja en tiradas de Destreza** y en las tiradas de **Iniciativa**.
     
-- **3 a 5 Puntos – Hipotermia / Psicosis Inicial:** Los procesos cognitivos se ralentizan y las extremidades pierden sensibilidad. El personaje sufre **Desventaja en todas las pruebas de habilidad** y su **velocidad de movimiento se reduce a la mitad**.
+- **3 a 5 Puntos – Hipotermia / Psicosis:** Los procesos cognitivos se ralentizan y las extremidades pierden sensibilidad. El personaje sufre **Desventaja en todas las pruebas de habilidad** y su **velocidad de movimiento se reduce a la mitad**.
     
 - **1 a 2 Puntos – Delirio:** El personaje apenas distingue la realidad de los susurros de la ceniza. **No puede realizar Reacciones**, pierde la capacidad de concentrarse en conjuros o habilidades y sufre **Desventaja en todas las tiradas de salvación** (incluida la propia Entereza).
     
-- **0 Puntos – Colapso:** El personaje cae inconsciente de inmediato debido a la congelación o el shock mental. Cada hora que pase a 0 puntos de Entereza en un entorno hostil le causará un nivel de Agotamiento.
+- **0 Puntos – Colapso:** El personaje cae inconsciente de inmediato debido al shock. Cada hora que pase a 0 puntos de Entereza en un entorno hostil le causará un nivel de Agotamiento.
     
 
 ## 3. Habilidades Vinculadas a la Entereza
@@ -37,7 +37,7 @@ Los penalizadores físicos y mentales se activan según los **puntos restantes e
 La Entereza cuenta con tres habilidades específicas en las que los personajes pueden especializarse:
 
 ### Calma mental (Entereza)
-Utilizada para resistir la claustrofobia de los túneles subterráneos,  las alucinaciones  provocadas o presenciar aberraciones.
+Utilizada para resistir la claustrofobia de los túneles subterráneos,  las alucinaciones provocadas por presenciar aberraciones.
 
 ### Robustez (Entereza) 
 Utilizada para soportar las condiciones climáticas extremas, la escasez de oxígeno  o el esfuerzo físico continuado.

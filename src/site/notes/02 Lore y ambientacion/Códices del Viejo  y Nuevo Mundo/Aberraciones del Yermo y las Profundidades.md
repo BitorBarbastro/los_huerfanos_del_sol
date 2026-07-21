@@ -6,17 +6,7 @@
 > 
 
 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
-
-
-Los pocos testimonios de quienes han sobrevivido a sus nidos describen criaturas de una belleza tan hipnótica como letal. Poseen cuerpos acorazados del tamaño de un cráneo humano, un brillo de tono azul cobalto que destaca con violencia contra la nieve y articulaciones afiladas como astillas de obsidiana capaces de rebanar el cuero como si fuera mantequilla. Se guían en la absoluta ceguera del exterior basándose en las vibraciones de sus largas y delicadas antenas, moviéndose en cerradas y coordinadas manadas de apenas media docena de individuos.
-
-Anidan en grietas de poca profundidad, ocultas bajo el manto blanco. Quienes conocen el Yermo buscan el sutil vaho que asciende de estas grietas, pues se sospecha que las criaturas anidan cerca de la superficie para atrapar el escaso calor exterior, manteniendo un templado y húmedo microecosistema en su interior. 
-
-Profanar ese santuario es una sentencia de muerte para cualquier valiente. Toda manada cuenta con un **Guardián**: un espécimen monstruoso y deforme, un gigante que multiplica por ocho el tamaño de sus congéneres. Esta mole de caparazón impenetrable asume la tarea exclusiva de proteger al enjambre. Son enfermizamente protectores con los suyos, y desatarán una violencia ciega si alguien osa perturbar las larvas que custodian en lo profundo de la grieta.
-
-</div></div>
 
 ### Rondador Pálido 
 

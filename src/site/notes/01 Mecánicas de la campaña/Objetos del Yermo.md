@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-mecanicas-de-la-campana/objetos-del-yermo/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/01-mecanicas-de-la-campana/objetos-del-yermo/","dg-note-properties":{"tipo":"mecanica","visibilidad":"jugadores"}}
 ---
 
 ### Fuentes de Luz
@@ -19,10 +19,6 @@
 **Uso**: Equipo (requiere una mano libre). 
 **Efectos**: Ilumina siempre en un radio de 30 pies, ignorando la penalización por ceniza del yermo. Requiere consumibles para funcionar: cada vial de aceite purificado cuesta 2 pp y ofrece 4 horas de luz. Es el método más común y seguro para mantener la iluminación durante El Rugido.
 
-#### Piedra luz o calor solar
-Permite cargarse mágicamente otorgan luz y/o calor
-
-#### Piedra mineral lumínica 
 
 ### Consumibles de Lujo
 
@@ -70,3 +66,8 @@ Contiene 3 raciones.
 1) Como combustible de Farol, eleva el radio de luz de 30 a 45 pies durante 4 horas. 
 2) Como lubricante en juntas de armaduras pesadas, anula su penalizador de Desventaja en Sigilo durante un viaje de hasta 6 horas. 
 Contiene 1 vial.
+
+
+#### Estuches de ascuas
+Capaces de alterar las propiedades de las ascuas, siendo capaces de aumentar su duracion o potencia usando varias ascuas simultáneamente, tienen diferentes configuraciones ej. 
+2 ascuas pueden durar lo mismo pero calentar el doble o durar el doble y calentar lo mismo, 

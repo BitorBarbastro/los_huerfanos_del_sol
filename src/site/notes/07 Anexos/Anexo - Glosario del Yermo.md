@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-anexos/anexo-glosario-del-yermo/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/07-anexos/anexo-glosario-del-yermo/","dg-note-properties":{"tipo":"anexo","visibilidad":"jugadores"}}
 ---
 
 ## Entorno y Clima
@@ -53,5 +53,6 @@ Sustancia narcótica obtenida a partir del zumo de las larvas de los escarabajos
 Por lo general, se comercializa concentrado en una pasta muy pegajosa que se consume colocándola directamente debajo de la lengua para una absorción lenta. Su uso continuado altera drásticamente la pigmentación de la cavidad bucal, tiñendo la lengua de un tono inconfundible
 
 ### Divisas en los enclaves
-[[02 Lore y ambientacion/Códices del Viejo  y Nuevo Mundo/Registro Socioeconómico del Subsuelo#El Flujo de la Moneda Escamas, Lascas y Ascuas\|Escamas lascas y ascuas]]
- 
+[[02 Lore y ambientación/Códices del Viejo  y Nuevo Mundo/Relatos y documentos del yermo/Registro Socioeconómico del Subsuelo#El Flujo de la Moneda Escamas, Lascas y Ascuas\|Escamas lascas y ascuas]]
+### Galletas de Hollín
+Una especie de galleta dura muy seca y amarga que aporta energía suficiente para toda una jornada, si se hace polvo y diluye en un poco de agua se puede convertir en un potente combustible

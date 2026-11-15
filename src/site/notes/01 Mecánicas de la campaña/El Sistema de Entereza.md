@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-mecanicas-de-la-campana/el-sistema-de-entereza/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/01-mecanicas-de-la-campana/el-sistema-de-entereza/","dg-note-properties":{"tipo":"mecanica","visibilidad":"jugadores"}}
 ---
 
 ##  1. Puntuación y Cálculo 
@@ -27,7 +27,7 @@ Las penalizaciónes físicas y mentales se activan según los **puntos restantes
     
 - **3 a 5 Puntos – Hipotermia / Psicosis:** Los procesos cognitivos se ralentizan y las extremidades pierden sensibilidad. El personaje sufre **Desventaja en todas las pruebas de habilidad** y su **velocidad de movimiento se reduce a la mitad**.
     
-- **1 a 2 Puntos – Delirio:** El personaje apenas distingue la realidad de los susurros de la ceniza. **No puede realizar Reacciones**, pierde la capacidad de concentrarse en conjuros o habilidades y sufre **Desventaja en todas las tiradas de salvación** (incluida la propia Entereza).
+- **1 a 2 Puntos – Delirio:** El personaje apenas distingue la realidad de los susurros. **No puede realizar Reacciones**, pierde la capacidad de concentrarse en conjuros o habilidades y sufre **Desventaja en todas las tiradas de salvación** (incluida la propia Entereza).
     
 - **0 Puntos – Colapso:** El personaje cae inconsciente de inmediato debido al shock. Cada hora que pase a 0 puntos de Entereza en un entorno hostil le causará un nivel de Agotamiento.
     

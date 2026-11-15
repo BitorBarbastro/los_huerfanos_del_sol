@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/01-mecanicas-de-la-campana/el-viaje-tramos-marchas-y-eventos/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/01-mecanicas-de-la-campana/el-viaje-tramos-marchas-y-eventos/","dg-note-properties":{"tipo":"mecanica","visibilidad":"jugadores"}}
 ---
 
 #  Sistema de Viaje: Tramos, Marchas y Eventos
 
 Este documento regula el desplazamiento por el [[07 Anexos/Anexo - Glosario del Yermo#El Yermo Ciego\|Yermo Ciego]]. El viaje se divide en Tramos de Distancia, pero las Horas Reales de Exposición y los acontecimientos del camino dependen del terreno y la marcha elegida.
 
-Cada hora real en el exterior exige una tirada horaria de Entereza (Constitución / Cordura) y consume combustible de luz.
+Cada hora real en el exterior exige una tirada horaria de Entereza (Constitución o entereza) y consume combustible de luz.
 
 ---
 
@@ -156,16 +156,11 @@ Si uno o más personajes fallan sus tiradas de Entereza, el entorno les castiga 
 3. Se consulta la siguiente tabla según el **Sumatorio Total**:
     
 
-| **Suma Total**  | **Consecuencia Grupal**                                                                                                                                                                                                                           |
-| --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Menos de 80** | **Desgaste Ordinario:** El frío cala, pero la formación se mantiene. Sin efectos adicionales.                                                                                                                                                     |
-| **80 a 159**    | **Golpe de Frío Anómalo:** Todo el grupo (hayan fallado o no) pierde **1 punto de Entereza** extra por una bajada brusca de temperatura.                                                                                                          |
-| **160 a 239**   | **Alteración del Ciclo:** El clima colapsa. Si viajaban en _Calma Ciega_, estalla _El Rugido_ (visibilidad cero). Si viajaban en _El Rugido_, la tormenta cesa instantáneamente (_Calma Ciega_), dejando al grupo expuesto mientras hacían ruido. |
-| **240 a 319**   | **Fisura Mental y Ferales:** El grupo pierde **2 puntos de Entereza** adicionales. El rastro de torpeza atrae a una jauría de **Ferales** que os asalta de inmediato.                                                                             |
-| **320 o más**   | **Vórtice de Ceniza:** El grupo pierde **3 puntos de Entereza** adicionales. La fuente de luz principal explota o se apaga por congelación del combustible; el grupo queda sumido en la **Oscuridad** total.                                      |
+| **Suma Total**  | **Consecuencia Grupal**                                                                                                                                                                                                                                                                                                                                                                  |
+| --------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Menos de 80** | **Desgaste Ordinario:** El frío cala, pero la formación se mantiene. Sin efectos adicionales.                                                                                                                                                                                                                                                                                            |
+| **80 a 159**    | **Golpe de Frío Anómalo:** Todo el grupo (hayan fallado o no) pierde **1 punto de Entereza** extra por una bajada brusca de temperatura.                                                                                                                                                                                                                                                 |
+| **160 a 239**   | **Alteración del Ciclo:** El clima colapsa. Si viajaban en _Calma Ciega_, estalla _El Rugido_ (visibilidad cero). Si viajaban en _El Rugido_, la tormenta cesa instantáneamente (_Calma Ciega_), dejando al grupo expuesto mientras hacían ruido.<br>Si están en túnel se produce un temblor lo que causa un desprendimiento, salvación de destreza CD12 para evitar recibir 2d6 de daño |
+| **240 a 319**   | **Fisura Mental y Ferales:** El grupo pierde **2 puntos de Entereza** adicionales. El rastro de torpeza atrae a una jauría de **Ferales** que os asalta de inmediato.                                                                                                                                                                                                                    |
+| **320 o más**   | **Vórtice de Ceniza:** El grupo pierde **3 puntos de Entereza** adicionales. La fuente de luz principal explota o se apaga por congelación del combustible; el grupo queda sumido en la **Oscuridad** total.                                                                                                                                                                             |
 
-##  Impacto Crítico (Regla Especial)
-
-Si en el lanzamiento de los dados de castigo **cualquier jugador obtiene un 100 exacto**, se aplica la **Congelación Fulminante**: el personaje recibe **un nivel de Agotamiento** permanente hasta llegar a un búnker, o sufre una lesión persistente (Desventaja en tiradas físicas de esa zona) hasta recibir atención médica especializada.
-
-¿Qué te parece este giro? Ahora el éxito es una carrera colaborativa por sumar la mayor cantidad posible de puntos de equipo, y el fracaso es una gestión de crisis donde el grupo entero paga los platos rotos por la mala suerte (o la falta de preparación) de sus compañeros.

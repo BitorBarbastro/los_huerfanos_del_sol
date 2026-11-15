@@ -93,4 +93,16 @@ body {
 
     .callout[data-callout="statblock"] tr { background: transparent !important; }
 
+    .callout[data-callout="statblock"] ul {
+      margin: 0.2em 0;
+      padding-left: 1.3em;
+    }
+
+    .callout[data-callout="statblock"] li {
+      color: #1a1a1a;
+      margin: 0.05em 0;
+    }
+
+    .callout[data-callout="statblock"] li::marker { color: #7a200d; }
+
 }

@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/06-diario-de-campana/oneshots/personajes/ilya-varn/","dg-note-properties":{"tipo":"jugador","subtipo":"pregenerado","visibilidad":"jugadores"}}
 ---
 
-# Ilya Varn
 *Semielfa · Pícara 3 (exploradora) · Batidora de túneles de Fuerte Vigía Norte*
 
 Ilya es batidora de túneles: va por delante de las patrullas, lee el suelo y las paredes, y vuelve para decir por dónde se puede pasar. Es el oficio más corto del Fuerte; la mayoría de los batidores no dura dos años. Ella lleva seis. Nació en una colmena de Kael-Thur, hija de un padre elfo que nadie conoció y de una madre que trabajaba en los cultivos, y se alistó en la guarnición con quince años porque era el único lugar donde pagaban por saber moverse a oscuras.

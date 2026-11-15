@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/06-diario-de-campana/oneshots/personajes/maese-hollin-dresk/","dg-note-properties":{"tipo":"jugador","subtipo":"pregenerado","visibilidad":"jugadores"}}
 ---
 
-# Maese Hollin Dresk
 *Gnoma de las rocas · Artífice 3 (artillera) · Ingeniera de señales de Fuerte Vigía Norte*
 
 Hollin nació en los estratos profundos de Kael-Thur, en una familia de ingenieros térmicos gnomos que lleva generaciones manteniendo el calor de las galerías ricas. Se esperaba de ella que heredara el oficio. Pero a los catorce años un ascua muerta empezó a calentarse sola entre sus manos mientras reparaba un regulador, y eso, en Kael-Thur, solo puede significar una cosa: talento para la magia. La Hermandad del Crisol no deja a nadie con ese talento fuera de sus filas. Primero vinieron a reclutarla. Cuando su familia pidió tiempo, vinieron a preguntar por qué.

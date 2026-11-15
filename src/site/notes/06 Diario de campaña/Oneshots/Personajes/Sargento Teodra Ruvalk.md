@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/06-diario-de-campana/oneshots/personajes/sargento-teodra-ruvalk/","dg-note-properties":{"tipo":"jugador","subtipo":"pregenerado","visibilidad":"jugadores"}}
 ---
 
-# Sargento Teodra Ruvalk
 *Enana de las colinas · Guerrera 3 (maestra de batalla) · Guarnición de Fuerte Vigía Norte*
 
 Teodra lleva catorce años en la línea de señales de Fuerte Vigía Norte, más que nadie en la guarnición. Llegó desde Dol-Mewin como tantos otros: una deuda familiar con la administración que se pagaba con años de servicio en la frontera. La deuda quedó saldada hace una década. Ella no se fue. Empezó cambiando ascuas gastadas y engrasando campanas en los puestos más alejados de la línea, y ha ido subiendo a fuerza de seguir viva cuando otros no lo hacían. Hoy manda las patrullas que salen cuando una cuenta de la línea se apaga.

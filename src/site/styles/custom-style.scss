@@ -11,3 +11,86 @@ body {
     //   color: black;
     //  }
 }
+
+/* Fichas de personaje: callout [!statblock] (Los Huérfanos del Sol) */
+body {
+    /* Callout [!statblock]: fichas de personaje con aspecto de statblock 5e.
+       Mismo CSS para Obsidian (.obsidian/snippets) y Digital Garden (custom-style.scss). */
+
+    .callout[data-callout="statblock"] {
+      --callout-color: 146, 38, 16;
+      --callout-icon: lucide-shield;
+      background: #fdf1dc;
+      color: #1a1a1a;
+      border: none;
+      border-top: 5px solid #e69a28;
+      border-bottom: 5px solid #e69a28;
+      border-radius: 2px;
+      box-shadow: 0 0 6px rgba(0, 0, 0, 0.6);
+      padding: 0.6em 1em;
+      font-family: "Libre Baskerville", "Book Antiqua", Georgia, serif;
+      font-size: 0.92em;
+      max-width: 46em;
+    }
+
+    .callout[data-callout="statblock"] .callout-title {
+      color: #7a200d;
+      font-family: "Libre Baskerville", Georgia, serif;
+      font-size: 1.5em;
+      font-weight: bold;
+      font-variant: small-caps;
+      padding: 0;
+    }
+
+    .callout[data-callout="statblock"] .callout-icon { display: none; }
+
+    .callout[data-callout="statblock"] .callout-content p {
+      margin: 0.15em 0;
+      line-height: 1.4;
+    }
+
+    .callout[data-callout="statblock"] .callout-content strong,
+    .callout[data-callout="statblock"] .callout-content em { color: inherit; }
+
+    .callout[data-callout="statblock"] .callout-content > p:first-child em {
+      font-style: italic;
+      color: #1a1a1a;
+    }
+
+    .callout[data-callout="statblock"] hr {
+      border: none;
+      height: 3px;
+      margin: 0.5em 0;
+      background: linear-gradient(to right, #922610, rgba(146, 38, 16, 0));
+    }
+
+    .callout[data-callout="statblock"] h3 {
+      color: #7a200d;
+      font-variant: small-caps;
+      font-size: 1.2em;
+      margin: 0.8em 0 0.3em;
+      padding-bottom: 0.1em;
+      border-bottom: 1px solid #7a200d;
+    }
+
+    .callout[data-callout="statblock"] table {
+      width: 100%;
+      margin: 0.3em 0;
+      border: none;
+      background: transparent;
+    }
+
+    .callout[data-callout="statblock"] th,
+    .callout[data-callout="statblock"] td {
+      color: #7a200d;
+      border: none;
+      background: transparent;
+      text-align: center;
+      padding: 0.1em;
+    }
+
+    .callout[data-callout="statblock"] td { color: #1a1a1a; }
+
+    .callout[data-callout="statblock"] tr { background: transparent !important; }
+
+}

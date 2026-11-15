@@ -61,8 +61,16 @@ Es una semielfa delgada, de pelo rapado a cuchillo, que forra sus botas con trap
 > ### Reacciones
 >
 > ***Escaramuzadora.*** Cuando un enemigo termina su turno a 5 pies de ella, se mueve hasta la mitad de su velocidad sin provocar ataques de oportunidad.
-
-**Equipo:** cuero tachonado, espada corta, arco corto y 20 flechas, cuerda de seda de 50 pies, garfio, tiza, mapa a medio hacer de los túneles del norte.
+>
+> ### Equipo
+>
+> - Cuero tachonado
+> - Espada corta
+> - Arco corto y 20 flechas
+> - Cuerda de seda de 50 pies
+> - Garfio
+> - Tiza
+> - Mapa a medio hacer de los túneles del norte
 
 ---
 

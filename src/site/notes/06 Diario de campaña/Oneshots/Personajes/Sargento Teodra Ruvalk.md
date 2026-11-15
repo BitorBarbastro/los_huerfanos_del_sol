@@ -67,8 +67,15 @@ Es una enana ancha y callada, de barba recogida en dos trenzas cortas y cara cru
 > ### Reacciones
 >
 > ***Réplica (maniobra).*** Cuando un enemigo falla un ataque cuerpo a cuerpo contra ella, le ataca y suma el dado de superioridad al daño.
-
-**Equipo:** cota de mallas, escudo del Fuerte, martillo de guerra, ballesta ligera y 20 virotes, cuerno de señal, libreta de guardia.
+>
+> ### Equipo
+>
+> - Cota de mallas
+> - Escudo del Fuerte
+> - Martillo de guerra
+> - Ballesta ligera y 20 virotes
+> - Cuerno de señal
+> - Libreta de guardia
 
 ---
 

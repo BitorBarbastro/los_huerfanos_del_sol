@@ -77,8 +77,16 @@ Es una gnoma de gafas de latón y lentes ahumadas, con los guantes quemados en l
 > Nivel 1 (siempre preparados): escudo, onda atronadora
 >
 > Nivel 1 (preparados): curar heridas, fuego feérico, alarma, grasa
-
-**Equipo:** cota de escamas, ballesta ligera, martillo ligero (+1, 1d4 − 1), herramientas de manitas, estuche con el ascua lumínica de repuesto, dos campanas de señal con badajo, alambre y yesca.
+>
+> ### Equipo
+>
+> - Cota de escamas (+1, infundida)
+> - Ballesta ligera (repetidora, infundida)
+> - Martillo ligero (+1, 1d4 − 1)
+> - Herramientas de manitas
+> - Estuche con el ascua lumínica de repuesto
+> - Dos campanas de señal con badajo
+> - Alambre y yesca
 
 ---
 
